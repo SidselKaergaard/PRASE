@@ -1,0 +1,23 @@
+/*
+Theme name: Child-beonepage
+Author: Gruppe nr.6
+Template: beonepage
+Version: 0.1
+*/
+
+@import url("../beonepage/style.css");
+
+body{
+	background-color: aqua;
+}
+	
+	.icon-service-module {
+	color: #181a1c;
+	background-color: #eceff3;
+}
+
+.icon-service-module .separator span {
+	color: #F4F2F2;
+}
+
+
